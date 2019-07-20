@@ -1,0 +1,12 @@
+theme: jekyll-theme-basically-basic
+url: https://turnon.github.io/
+email: 1020715764@qq.com
+github_username: turnon
+
+defaults:
+  # _posts
+  - scope:
+      path: "_posts"
+      type: posts
+    values:
+      layout: post
