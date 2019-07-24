@@ -1,4 +1,4 @@
-skin: soft
+skin: default
 
 t:
   skip_links: "Skip links"
@@ -26,3 +26,8 @@ t:
 google_fonts:
   - name: "Fira Sans"
     weights: "400,400i,600,600i"
+
+navigation_pages:
+  - tags.html
+  - statistic.html
+  - about.md
