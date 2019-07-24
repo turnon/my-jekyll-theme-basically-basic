@@ -31,3 +31,15 @@ a.entry-tag {
 .navicon-button {
   padding: 0.9rem;
 }
+
+.taxonomy-section {
+  .entry:not(:last-child) {
+    border: none;
+  }
+
+  .entry {
+    margin-bottom: 0rem;
+    padding-bottom: 0rem;
+    padding-left: 1rem;
+  }
+}
